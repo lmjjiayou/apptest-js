@@ -1,3 +1,4 @@
+//this is a javascript
 console.log('a starting');
 exports.done=false;
 var b = require('./b.js');
